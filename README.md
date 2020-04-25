@@ -1,4 +1,4 @@
-# bitrix-env-yc-terraform-
+# bitrix-env-yc-terraform
 
 - install terraform
 - git clone
